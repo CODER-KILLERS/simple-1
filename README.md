@@ -1,6 +1,5 @@
 #  SIMPLE CRACK
 # Made With ❤️ By Fall Xavier  
-```
 
 # UNTUK INSTALL SCRIPT
 ```
