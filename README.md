@@ -14,7 +14,7 @@ $ pip install mechanize
 $ pip install futures  
 $ rm -rf premium  
 $ git clone https://github.com/Dapunta/premium  
-```
+
 
 # UNTUK JALANKAN SCRIPT
 ```
