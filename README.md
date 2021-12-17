@@ -4,22 +4,17 @@
 # UNTUK INSTALL SCRIPT
 ```
 $ pkg update && upgrade  
-$ termux-setup-storage  
-$ pkg install python  
-$ pkg install git  
-$ pip install bs4  
-$ pip install requests  
-$ pip install mechanize  
-$ pip install futures  
-$ rm -rf premium  
-$ git clone https://github.com/Dapunta/premium  
+$ pkg install python git
+$ pip install requests bs4 futures mechanize  
+$ rm -rf simple  
+$ git clone https://github.com/Fall-Xavier/simple
 ```
 
 # UNTUK JALANKAN SCRIPT
 ```
-$ cd premium  
+$ cd simple  
 $ git pull  
-$ python premium.py  
+$ python run.py  
 ```
 
 # INFORMASI!!!
